@@ -22,7 +22,7 @@
 
 <br/>
 
-[Features](#-features)  · [Quick Start](#-quick-start) ·
+[Features](#-features) · [Demo](https://dashboard-production-0bde.up.railway.app) · [Quick Start](#-quick-start) ·
 
 <br/>
 
