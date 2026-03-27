@@ -172,9 +172,7 @@ php artisan serve
 
 <div align="center">
 
-**Your Name**
-
-[![GitHub](https://img.shields.io/badge/GitHub-@username-181717?style=for-the-badge&logo=github)](https://github.com/kkornelius)
+[![GitHub](https://img.shields.io/badge/GitHub-@kkornelius-181717?style=for-the-badge&logo=github)](https://github.com/kkornelius)
 
 </div>
 
